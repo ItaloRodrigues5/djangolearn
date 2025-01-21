@@ -19,6 +19,6 @@ class Uno(Carro):
 uno = Uno()
 uno.acelerar()
 uno.buzinar()
-
+uno.frear()
 print('{} rodas'.format(uno.numero_rodas))
 print('{} passageiros'.format(uno.passageiros))
