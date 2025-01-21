@@ -14,7 +14,7 @@ class Carro:
 class Uno(Carro):
     modelo = 'Uno'
     marca = 'Fiat'
-    ano = '1992'
+    ano = 1992
 
 uno = Uno()
 uno.acelerar()
